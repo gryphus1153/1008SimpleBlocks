@@ -1,0 +1,8 @@
+#initial
+|42,B,C,D,E,F,A
+|
+|
+$final
+|42,F,E,D,C,B,A
+|
+|
